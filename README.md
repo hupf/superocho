@@ -1,12 +1,12 @@
 # Super OCHO #
 
-An 8-Step analog sequencer with CV and Gate outputs.
+An 8-Step analog sequencer with a Gate and two seperate CV outputs.
 
 ![Logo](images/logo.png)
 
 The sequencer circuit is inspired by [captain's analog Baby 10 sequencer](http://static.flickr.com/107/309524222_7dee86bda1_b.jpg) that uses a 4017 decade counter IC. For the clock it uses a [timer circuit described on elektronik-kompendium.de](http://www.elektronik-kompendium.de/sites/praxis/bausatz_taktgenerator-mit-lmc555cn.htm), based on a NE555 timer IC.
 
-The panel design graphic is also included in the repository. It fits on a Hammond Electronics 1590R1 case.
+The panel design graphic included in the repository fits on a Hammond Electronics 1590R1 case. It can be [applied to the case](http://www.youtube.com/watch?v=e2X_HL-4F90) using [waterslide decal](http://www.amazon.de/gp/product/B007Y52LKQ/).
 
 
 ## Schematic ##
